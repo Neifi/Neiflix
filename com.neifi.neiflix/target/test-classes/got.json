@@ -1,0 +1,62 @@
+{
+    "title": {
+        "@type": "imdb.api.title.base",
+        "id": "/title/tt0944947/",
+        "image": {
+            "height": 1500,
+            "id": "/title/tt0944947/images/rm4204167425",
+            "url": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+            "width": 1102
+        },
+        "title": "Game of Thrones",
+        "titleType": "tvSeries",
+        "year": 2011
+    },
+    "showtimes": {
+        "ticketingAvailable": false,
+        "screeningDates": [],
+        "cinemas": [],
+        "favoriteTheaters": []
+    },
+    "videoProducts": {
+        "@type": "imdb.api.title.videoproducts",
+        "id": "/title/tt0944947/",
+        "title": "Game of Thrones",
+        "titleType": "tvSeries",
+        "year": 2011,
+        "seriesCounts": [
+            {
+                "numberOfEpisodes": 10,
+                "season": 1
+            },
+            {
+                "numberOfEpisodes": 10,
+                "season": 2
+            },
+            {
+                "numberOfEpisodes": 10,
+                "season": 3
+            },
+            {
+                "numberOfEpisodes": 10,
+                "season": 4
+            },
+            {
+                "numberOfEpisodes": 10,
+                "season": 5
+            },
+            {
+                "numberOfEpisodes": 10,
+                "season": 6
+            },
+            {
+                "numberOfEpisodes": 7,
+                "season": 7
+            },
+            {
+                "numberOfEpisodes": 6,
+                "season": 8
+            }
+        ]
+    }
+}
